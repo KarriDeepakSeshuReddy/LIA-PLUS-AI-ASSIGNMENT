@@ -131,7 +131,7 @@ body {
   font-size: 14px;
   cursor: pointer;
   transition: background-color 0.3s ease;
-  margin-right: 70px; /* Pushes it to the left */
+  margin-right: 70px; 
 }
 
 
@@ -139,7 +139,7 @@ body {
   background-color: #d32f2f;
 }
 
-/* Push down chat box to make room for navbar */
+
 .chat-wrapper {
   margin-top: 70px;
 }
