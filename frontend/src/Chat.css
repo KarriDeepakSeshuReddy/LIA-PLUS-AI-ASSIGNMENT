@@ -2,11 +2,11 @@ body {
   margin: 0;
   padding: 0;
   font-family: 'Segoe UI', sans-serif;
-  background: linear-gradient(to bottom right, #d3cce3, #e9e4f0);
+  background: beige;
 }
 
 .chat-wrapper {
-  height: 100vh;
+  height: 90vh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -17,7 +17,7 @@ body {
   width: 600px;
   height: 80vh;
   border-radius: 12px;
-  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+  box-shadow: 0 8px 16px rgba(225, 18, 18, 0.832);
   display: flex;
   flex-direction: column;
   overflow: hidden;
@@ -25,8 +25,8 @@ body {
 
 .chat-header {
   padding: 20px;
-  background-color: #673ab7;
-  color: white;
+  background-color: #f7e1a4;
+  color: rgb(6, 6, 6);
   font-size: 18px;
   font-weight: bold;
 }
@@ -57,7 +57,7 @@ body {
 
 .theirs {
   align-self: flex-start;
-  background-color: #fce4ec;
+  background-color: #f9c9d9;
   text-align: left;
 }
 
@@ -85,7 +85,7 @@ body {
 
 .chat-input button {
   margin-left: 10px;
-  background-color: #673ab7;
+  background-color: #e5855b;
   color: white;
   border: none;
   padding: 10px 18px;
@@ -101,7 +101,7 @@ body {
 /* Navbar styles */
 .navbar {
   width: 100%;
-  background-color: #673ab7;
+  background-color: #c2ace7;
   color: white;
   padding: 12px 24px;
   display: flex;
@@ -123,7 +123,7 @@ body {
 }
 
 .logout-button {
-  background-color: #f44336;
+  background-color: #da6b64;
   border: none;
   color: white;
   padding: 8px 16px;
