@@ -15,6 +15,8 @@ function Login({ setUsername }) {
   };
 
   return (
+  <div className="login-wrapper">
+    <h1 className="main-heading">Welcome to Chat App</h1>
 
     <div className="login-container">
       <h2 className="login-title">Login to Chat</h2>
@@ -28,7 +30,8 @@ function Login({ setUsername }) {
         <button onClick={handleJoin}>Join Chat</button>
       </div>
     </div>
-  );
+  </div>
+);
 }
 
 function App() {
