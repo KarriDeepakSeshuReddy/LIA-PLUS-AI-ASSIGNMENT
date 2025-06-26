@@ -57,21 +57,17 @@ npm install
 Step 3️⃣: Start the Application
 🔸 Start the Backend Server
 bash
-Copy
-Edit
 cd backend
 node server.js
 Server will run on: http://localhost:5001
 
 🔸 Start the Frontend React App
 Open another terminal:
-
 bash
-Copy
-Edit
 cd frontend
 npm start
 App will open in your browser at: http://localhost:3000
+
 
 # Test the Chat
 Open http://localhost:3000 in two browser tabs or two devices.
