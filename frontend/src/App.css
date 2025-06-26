@@ -1,0 +1,100 @@
+/* Center the whole app */
+.app-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: linear-gradient(135deg, #85898a, #000000);
+  font-family: 'Segoe UI', sans-serif;
+}
+
+/* Login form styling */
+.login-container {
+  background-color: #ffffff;
+  padding: 40px;
+  border-radius: 12px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.login-container h2 {
+  margin-bottom: 20px;
+  color: #007bff;
+}
+
+/* Input field styling */
+.login-container input {
+  padding: 12px;
+  margin: 10px 0;
+  width: 90%;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  font-size: 14px;
+}
+
+/* Button styling */
+.login-container button {
+  padding: 12px 20px;
+  background-color: #28a745;
+  border: none;
+  color: white;
+  font-size: 14px;
+  font-weight: bold;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.login-container button:hover {
+  background-color: #1e7e34;
+}
+/* Center the whole app */
+.app-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: linear-gradient(135deg, #85898a, #000000);
+  font-family: 'Segoe UI', sans-serif;
+}
+
+/* Login form styling */
+.login-container {
+  background-color: #ffffff;
+  padding: 40px;
+  border-radius: 12px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.login-container h2 {
+  margin-bottom: 20px;
+  color: #007bff;
+}
+
+/* Input field styling */
+.login-container input {
+  padding: 12px;
+  margin: 10px 0;
+  width: 90%;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  font-size: 14px;
+}
+
+/* Button styling */
+.login-container button {
+  padding: 12px 20px;
+  background-color: #28a745;
+  border: none;
+  color: white;
+  font-size: 14px;
+  font-weight: bold;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.login-container button:hover {
+  background-color: #1e7e34;
+}
